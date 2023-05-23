@@ -1,1 +1,1 @@
-# stu-zad-01
+# Studia zadanie 1
